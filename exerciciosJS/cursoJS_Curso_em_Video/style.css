@@ -1,0 +1,34 @@
+body{
+  background-color: cornflowerblue;
+
+}
+
+h1{
+  color: white;
+  text-align: center;
+}
+
+.titulos{
+  font-size: 1.5em;
+  color: white;
+  margin-bottom: 5px;
+}
+
+#number{
+  width: 60px;
+  font-size: 1.5em;
+}
+
+#flista{
+  width: 150px;
+  padding: 5px;
+}
+
+#analise{
+  width: 400px;
+  height: 180px;
+  background-color: white;
+  overflow:auto;
+  padding: 5px;
+  border-radius: 5px;
+}
